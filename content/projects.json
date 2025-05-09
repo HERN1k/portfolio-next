@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Fumitrade",
+    "description": "B2B website for a fumigation company.",
+    "date": "05/08/2025",
+    "id": 0,
+	"published": true,
+    "githubUrl": "fumitrade-next",
+    "productionUrl": "https://fumitrade.com.ua/"
+  },
+  {
+    "title": "Double You",
+    "description": "Double You is an educational app designed to help users expand their English vocabulary.",
+    "date": "01/05/2025",
+    "id": 1,
+	"published": true,
+    "githubUrl": "DoubleYou",
+    "productionUrl": "https://apps.microsoft.com/detail/9N2CC7VK03X6"
+  },
+  {
+    "title": "STest",
+    "description": "This application for my university thesis project, a platform aimed at streamlining the exam process for both students and faculty.",
+    "id": 2,
+	"published": false,
+    "githubUrl": "Student-Testing-Platform"
+  },
+  {
+    "title": "E-Commerce bot with CRM features",
+    "description": "A multi-functional Telegram bot for e-commerce, featuring a product catalog, order management, store location search on a map, feedback collection, order history, and a web admin panel for managing products and bot settings.",
+    "date": "10/11/2024",
+    "id": 3,
+	"published": true,
+    "githubUrl": "OMarket"
+  },
+  {
+    "title": "Time tracker",
+    "description": "Desktop app for tracking time at work on a PC.",
+    "date": "04/24/2024",
+    "id": 4,
+	"published": true,
+    "githubUrl": "Time-tracker"
+  },
+  {
+    "title": "Viewer3D",
+    "description": "Desktop app for real-time rendering and viewing of 3D models.",
+    "date": "05/03/2024",
+    "id": 5,
+	"published": true,
+    "githubUrl": "Viewer3D"
+  }
+]
