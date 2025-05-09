@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     description: "Student, software developer",
     url: "https://hern1k.xyz",
     siteName: "hern1k.xyz",
-    images: ["https://hern1k.xyz/favicon.png"],
+    images: ["https://hern1k.xyz/favicon.ico"],
     locale: "en-US",
     type: "website",
   },
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/favicon.ico",
   },
 };
 

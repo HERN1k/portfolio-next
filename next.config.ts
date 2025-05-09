@@ -5,7 +5,10 @@ const nextConfig: NextConfig = {
 	turbopack: {
 		resolveExtensions: [".js", ".jsx", ".ts", ".tsx"]
 	},
-	output: "export"
+	output: "export",
+	images: {
+        	unoptimized: true,
+    	}
 };
 
 export default nextConfig;
